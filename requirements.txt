@@ -1,0 +1,9 @@
+deepspeed==0.14.2
+huggingface_hub==0.12.1
+joblib==1.0.1
+nltk==3.6.2
+numpy==1.21.6
+regex==2021.4.4
+torch==1.8.1+cpu
+tqdm==4.64.0
+transformers==4.22.0
